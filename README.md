@@ -1,10 +1,10 @@
-# Realsens2_Description
+# Realsense2_Description
 
 <details open>
 <summary> <b>Brief Review<b></summary>
 
 
-IMPORTANT NOTE:  You need to add to the src folder the realsense_gazebo_plugin package that you could download from PAL Robotics or my repositories
+IMPORTANT NOTE:  You need to add to the src folder the realsense_gazebo_plugin package that you could download from PAL Robotics or my repository
 
 This is the original and modified folder for the [Intel Realsense ROS repo](https://github.com/IntelRealSense/realsense-ros).  We only took the realsense2_description folder.  The project here will let you know how to import and use realsense cameras in gazebo.
 
