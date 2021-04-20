@@ -57,7 +57,7 @@ This applications function as follows.
 - Go to the root folder `~/catkin_ws` and make the folder running `catkin_make` to ensure the application compiles.
 - Finally launch the application by:
 ~~~
-    roslaunch realsense2_description view_d435_model.launch
+    roslaunch realsense2_description view_d435_model_rviz_gazebo.launch
 ~~~
 - You must see that `roscore` and all configurations loading succesfully.
 - When everything ends, you must see gazebo and rviz loaded and the intel realsense d435 camera with an empty world.
